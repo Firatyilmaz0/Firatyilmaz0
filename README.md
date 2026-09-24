@@ -1,89 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Fırat%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Web%20Enthusiast%20%7C%20Creative%20Coder&descAlignY=58&descSize=18" width="100%"/>
+# Merhaba, ben Fırat! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=600&lines=Unity+%2B+C%23+Developer+%F0%9F%8E%AE;Learning+React+%E2%9A%9B%EF%B8%8F;Building+a+PixelLab-style+AI+App+%F0%9F%8E%A8;Always+Open+to+Collab+%F0%9F%A4%9D" alt="Typing SVG" />
+### Unity & C# geliştiricisi · Web geliştirme meraklısı · Oyun tutkunu 🎮
 
-<br/>
+<p>
+  <a href="https://instagram.com/m.firat0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:m.firatylmz@gmail.com">
+    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
+  </a>
+</p>
 
-<a href="https://instagram.com/m.firat0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:m.firatylmz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=650&lines=Unity+%2B+C%23+ile+oyun+geli%C5%9Ftiriyorum+%F0%9F%8E%AE;React+ile+web+uygulamalar%C4%B1+geli%C5%9Ftiriyorum+%F0%9F%92%BB;Her+g%C3%BCn+yeni+bir+%C5%9Fey+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Tanıtım yazısı" />
 
 </div>
 
-<br/>
+## 🚀 Hakkımda
 
-## 🚀 About Me
+Yaratıcı fikirleri çalışan ürünlere dönüştürmeyi seven, kendini geliştiren bir **oyun ve web geliştiricisi adayıyım**. Özellikle Unity ve C# ile oyun geliştirme, React ile modern web arayüzleri ve problem çözme üzerine çalışıyorum.
 
 ```yaml
 name: "Fırat Yılmaz"
 role: "Aspiring Game & Web Developer"
-currently_learning: ["Unity (C#)", "React", "Problem Solving"]
-looking_to_collaborate: "Open-source Unity projects & beginner-friendly web apps"
-fun_fact: "Built my first Unity game in under a week 🎮"
+focus:
+  - "Unity & C#"
+  - "React"
+  - "Problem solving"
+open_to: "Open-source projects, collaboration and new ideas"
+fun_fact: "İlk Unity oyunumı bir haftadan kısa sürede geliştirdim 🎮"
 ```
 
-<br/>
+## 🎨 Şu Anda Ne Geliştiriyorum?
 
-## 🎨 Currently Building
+**AI Pixel Art Generator** — PixelLab AI'dan ilham alan, yapay zekâ ile piksel sanatları üretmeyi hedefleyen bir web uygulaması. Arayüz tasarımı Stitch ile hazırlanıyor.
 
-> **AI Pixel Art Generator** — a PixelLab AI-inspired web app for generating pixel art with AI, frontend designed via Stitch.
-
-<br/>
-
-## 🛠️ Tech Stack
+## 🛠️ Teknolojiler
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+## 📊 GitHub İstatistikleri
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Firatyilmaz0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firatyilmaz0&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Firatyilmaz0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fırat'ın GitHub istatistikleri" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firatyilmaz0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="En çok kullanılan programlama dilleri" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Firatyilmaz0&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firatyilmaz0&theme=tokyonight&hide_border=true" alt="GitHub katkı serisi" />
 </div>
 
+## 🐍 Katkı Grafiği
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Firatyilmaz0&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Firatyilmaz0/Firatyilmaz0/output/github-contribution-grid-snake-dark.svg" alt="GitHub katkı yılanı" />
 </div>
 
-<br/>
+> Bu animasyonun görünmesi için `platane/snk` GitHub Action'ını yapılandırmanız gerekir.
 
-## 🐍 Contribution Snake
+## 🤝 İletişim
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Firatyilmaz0/Firatyilmaz0/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+Yeni fikirler, açık kaynak projeleri ve iş birlikleri için bana ulaşabilirsiniz:
 
-> Not: Bu snake animasyonu, `platane/snk` GitHub Action'ını repona ekleyip çalıştırdıktan sonra otomatik oluşur — aşağıda kurulumu var.
-
-<br/>
+- 📸 Instagram: [@m.firat0](https://instagram.com/m.firat0)
+- ✉️ E-posta: [m.firatylmz@gmail.com](mailto:m.firatylmz@gmail.com)
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Firatyilmaz0&icon=2&color=12)
+**Yeni şeyler öğrenmeye ve üretmeye devam! 🚀**
 
-<i>💬 Her zaman yeni fikirlere ve iş birliklerine açığım!</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Sayfa alt başlığı" />
 
 </div>
