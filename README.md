@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=650&lines=Unity+%2B+C%23+ile+oyun+geli%C5%9Ftiriyorum+%F0%9F%8E%AE;React+ile+web+uygulamalar%C4%B1+geli%C5%9Ftiriyorum+%F0%9F%92%BB;Her+g%C3%BCn+yeni+bir+%C5%9Fey+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Tanıtım yazısı" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=22&duration=3000&pause=800&color=B084F5&center=true&vCenter=true&width=650&lines=Unity%20%2B%20C%23%20ile%20oyun%20geli%C5%9Ftiriyorum%20%F0%9F%8E%AE;React%20ile%20web%20uygulamalar%C4%B1%20geli%C5%9Ftiriyorum%20%F0%9F%92%BB;Her%20g%C3%BCn%20yeni%20bir%20%C5%9Fey%20%C3%B6%C4%9Freniyorum%20%F0%9F%9A%80" alt="Tanıtım yazısı" />
 
 </div>
 
@@ -29,7 +29,7 @@ focus:
   - "React"
   - "Problem solving"
 open_to: "Open-source projects, collaboration and new ideas"
-fun_fact: "İlk Unity oyunumı bir haftadan kısa sürede geliştirdim 🎮"
+fun_fact: "İlk Unity oyunumu bir haftadan kısa sürede geliştirdim 🎮"
 ```
 
 ## 🎨 Şu Anda Ne Geliştiriyorum?
@@ -62,16 +62,14 @@ fun_fact: "İlk Unity oyunumı bir haftadan kısa sürede geliştirdim 🎮"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firatyilmaz0&theme=tokyonight&hide_border=true" alt="GitHub katkı serisi" />
+  <img src="https://streak-stats.demolab.com?user=Firatyilmaz0&theme=tokyonight&hide_border=true" alt="GitHub katkı serisi" />
 </div>
 
-## 🐍 Katkı Grafiği
+## 📈 Katkı Grafiği
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Firatyilmaz0/Firatyilmaz0/output/github-contribution-grid-snake-dark.svg" alt="GitHub katkı yılanı" />
+  <img src="https://ghchart.rshah.org/409ba5/Firatyilmaz0" alt="Firatyilmaz0 GitHub katkı grafiği" />
 </div>
-
-> Bu animasyonun görünmesi için `platane/snk` GitHub Action'ını yapılandırmanız gerekir.
 
 ## 🤝 İletişim
 
@@ -83,7 +81,5 @@ Yeni fikirler, açık kaynak projeleri ve iş birlikleri için bana ulaşabilirs
 <div align="center">
 
 **Yeni şeyler öğrenmeye ve üretmeye devam! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Sayfa alt başlığı" />
 
 </div>
